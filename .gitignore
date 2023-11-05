@@ -1,0 +1,12 @@
+.idea/
+.cache/
+lib/
+main/
+logs/
+build/
+tests/
+samples/
+examples/
+.vscode/
+*.ll
+*.log
